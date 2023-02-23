@@ -47,5 +47,16 @@ public class Bird {
     public String sound(){
         return "";
     }
+public class Bird {
+    public int ageMonths;
+    public Bird () {
+        public String getAnimalSound(int ageMonths) {
+            if (ageMonths < 3) {
+                return "Tweet";
+            } else {
+                return "Shirp";        
+                
+            public String sound () {
 
+}
 }
